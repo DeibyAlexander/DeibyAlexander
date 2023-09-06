@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I'm currently studying on campuslands<br>👯 I’m looking to collaborate on medium scale for any interested company...<br>🌱 I’m currently learning React...<br>⚡ Fun fact
 
+<img src="./06-02-48-655_512.gif">
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100018960977505) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/alex_css93/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/deiby-alexander-parada-ramirez-71b03b277) 
